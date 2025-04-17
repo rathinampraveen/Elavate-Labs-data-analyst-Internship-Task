@@ -41,6 +41,7 @@ python create_sales_db.py
 ## Run the summary script
 python sales_summary.py
 
+
 #Example Output
 
  ##Basic Sales Summary:
