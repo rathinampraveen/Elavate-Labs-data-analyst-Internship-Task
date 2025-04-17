@@ -27,7 +27,7 @@ A beginner-friendly project that connects Python to a tiny SQLite database to ca
 
 #  Setup Instructions
 
-
+```bash
 ## Clone the repo
 git clone https://github.com/yourusername/sales-summary-sqlite.git
 cd sales-summary-sqlite
