@@ -32,7 +32,7 @@ A beginner-friendly project that connects Python to a tiny SQLite database to ca
 git clone https://github.com/yourusername/sales-summary-sqlite.git
 cd sales-summary-sqlite
 
-# Install dependencies
+## Install dependencies
 pip install pandas matplotlib
 
 # Create the SQLite database with sample data
