@@ -25,32 +25,26 @@ A beginner-friendly project that connects Python to a tiny SQLite database to ca
 
 ---
 
-##  Setup Instructions
+#  Setup Instructions
 
 
-# Clone the repo
-
+## Clone the repo
 git clone https://github.com/yourusername/sales-summary-sqlite.git
 cd sales-summary-sqlite
 
-# Install dependencies
-
+## Install dependencies
 pip install pandas matplotlib
 
-# Create the SQLite database with sample data
-
+## Create the SQLite database with sample data
 python create_sales_db.py
 
-# Run the summary script
-
+## Run the summary script
 python sales_summary.py
 
 #Example Output
 
-
  ##Basic Sales Summary:
-
-
+ 
    product  total_qty  revenue
 0  Widget A         17   101.83
 1  Widget B          7    69.93
