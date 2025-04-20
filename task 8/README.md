@@ -1,4 +1,4 @@
-his repository includes two key files:
+
 
 1. PowerBI_Insights.txt
    - This file contains 4 summarized insights based on the Power BI dashboard.
