@@ -1,4 +1,4 @@
-#Airbnb Dynamic Pricing Recommendation Engine
+##Airbnb Dynamic Pricing Recommendation Engine
  Project Objective
 Analyze historical Airbnb data to recommend optimal listing prices based on factors like location, seasonality, and listing quality.
 The goal is to empower Airbnb hosts to dynamically adjust their prices using data-driven insights.
