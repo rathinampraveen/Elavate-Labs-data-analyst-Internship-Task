@@ -51,7 +51,7 @@ Final PDF Report (Introduction, Abstract, Tools Used, Steps, Conclusion).
 Sample Visualizations
 Scatter Plot: Review Scores vs Predicted Price
 
-Bar Chart: Average Price by City
+Bar Chart: Average Price by City 
 
 Price Recommendation Slider (Tableau)
          
