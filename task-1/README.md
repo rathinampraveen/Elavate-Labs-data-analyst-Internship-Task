@@ -7,7 +7,7 @@ Clean and prepare a raw dataset by handling missing values, removing duplicates,
 - Python 3
 - Pandas
 - Jupyter Notebook / VS Code / Any IDE
-- Excel (optional for manual inspection)
+- Excel 
 
 ## 📂 Dataset
 You can use any raw dataset with quality issues. Suggested examples from Kaggle:
